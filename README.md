@@ -4,9 +4,6 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="funny cat coding..." width="350" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"  />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelkarimain0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkarimain0" /> </p>
-
 - 🌱 I’m currently learning **Vue.js Next.js**
 
 - 💬 Ask me about **react, laravel**
