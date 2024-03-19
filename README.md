@@ -4,13 +4,13 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="funny cat coding..." width="350" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"  />
 
-- 🌱 I’m currently learning **Vue.js Next.js**
+- 🌱 I’m currently learning **Vue.js** && **Next.js**
 
-- 💬 Ask me about **react, laravel**
+- 💬 Ask me about **react** || **laravel**
 
 - 📫 How to reach me **abdelkarimain0@gmail.com**
 
-- ⚡ Fun fact **I can center a div**
+- ⚡ Fun fact ==> **I think I can center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
