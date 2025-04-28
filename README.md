@@ -1,5 +1,4 @@
 <h1>👋 Hello, I'm Abdelkarim Ain</h1>
-<img align="right" style="margin: 0 0 1em 1em" src="assets/giphy.gif" width="200"/>
 
 ![Profile](https://komarev.com/ghpvc/?username=abdelkarimain&label=Profile%20views&color=brightgreen&style=flat) ![Location](https://img.shields.io/badge/Location-Morocco-red) ![Language](https://img.shields.io/badge/Lang-En%20+%20Ar%20+%20Fr-blue) 
 
@@ -16,9 +15,6 @@ I'm **Abdelkarim Ain**, a FullStack Developer from Morocco, with experience in *
 <a style="text-decoration: none" target="_blank" href="https://x.com/ainabdelkarim">
 <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://youtube.com/@Abdo-Devs">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white">
-</a>
 
 ## 📚 Tech Stack:
 
@@ -34,4 +30,5 @@ I'm **Abdelkarim Ain**, a FullStack Developer from Morocco, with experience in *
 
 ## 📊 GitHub Stats
 
-![Abdelkarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelkarimain&show_icons=true&theme=radical)
+| [![Abdelkarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelkarimain&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=transparent)](https://github.com/abdelkarimain?tab=repositories) | [![abdelkarimain's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimain&layout=compact&hide_border=true&theme=transparent)](https://github.com/abdelkarimain?tab=repositories) |
+|:-:|:-:|
