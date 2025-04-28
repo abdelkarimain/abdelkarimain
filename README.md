@@ -1,6 +1,13 @@
 <h1>👋 Hello, I'm Abdelkarim Ain</h1>
 
-![Profile](https://komarev.com/ghpvc/?username=abdelkarimain&label=Profile%20views&color=brightgreen&style=flat) ![Location](https://img.shields.io/badge/Location-Morocco-red) ![Language](https://img.shields.io/badge/Lang-En%20+%20Ar%20+%20Fr-blue) 
+<p align="center">
+	<img alt="abdelkarimain's visitors" src="https://komarev.com/ghpvc/?username=abdelkarimain&color=8c36db&style=flat&label=🙍🏻‍♂️%20visitors" />
+	<img alt="abdelkarimain's followers" src="https://img.shields.io/github/followers/abdelkarimain?color=blueviolet" />
+	<img alt="abdelkarimain's stars" src="https://img.shields.io/github/stars/abdelkarimain?color=blueviolet" />
+	<img alt="abdelkarimain's location" src="https://img.shields.io/badge/🌍%20Location-Morocco-red" />
+	<img alt="abdelkarimain's location" src="https://img.shields.io/badge/🌐%20Speaks-EN%20+%20AR%20+%20FR-blue" />
+</p>
+
 
 I'm **Abdelkarim Ain**, a FullStack Developer from Morocco, with experience in **JavaScript**, **Laravel**, **React.js** and passion for **PHP**, **Java** and more. If you're interested or have any questions, feel free to reach out I’d be happy to connect! 
 
